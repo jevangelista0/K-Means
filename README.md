@@ -12,5 +12,5 @@ Try Me:
   - cd K-Means
   - g++ -std=c++11 Kmeans.cpp
   - a.exe Kmeans_image_data1.txt 4 out1.txt out2.txt out3.txt
-      (3rd argument (number) is the number of clusters 4 for data1 and 6 for data2)
+      (3rd argument (number) is the number of clusters, 4 for data1 and 6 for data2)
   - type out2.txt (to see output)
