@@ -38,7 +38,7 @@ public:
 		do{
 			pt2Img(); // give the image (points) labels
 			out2 << "*** Result of iteration " << iter << " ****\n";
-			out2 << "https://github.com/jevangelista0" << '\n';
+			out2 << "https://github.com/jevangelista0\n";
 			printImg(out2); // already in pt2Img
 
 			change = 0; // reset to 0 because distanceMinLabel() will check if there are more changes
